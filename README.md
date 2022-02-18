@@ -1,2 +1,2 @@
-# autometed-test-api
+# automated-test-api
 Automated  testing
